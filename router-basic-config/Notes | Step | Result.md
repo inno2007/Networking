@@ -109,3 +109,6 @@ ping 192.168.2.10
 - Use `enable secret` (not just `enable password`)  
 - Save often using `copy run start`  
 - Use descriptive hostnames for routers and switches
+
+## Outcome 
+![Image](https://github.com/user-attachments/assets/31e97e2b-1590-4f32-aab9-d89752db6717)

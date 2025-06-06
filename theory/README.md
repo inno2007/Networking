@@ -8,12 +8,12 @@ This folder contains essential networking theory topics that support the practic
 
 | Topic | Description |
 |-------|-------------|
-| [IPv4 Addressing & Subnetting](./ipv4-subnetting.md) | Binary, subnet masks, address types, and VLSM fundamentals |
-| [Routing Concepts](./routing-concepts.md) | Static routing, default routes, administrative distance, and metrics |
-| [OSPF Theory](./ospf-theory.md) | Link-state routing, SPF algorithm, OSPF configuration and behavior |
-| [Switching, VLANs, Port Security](./switching-vlan-basics.md) | MAC-based switching, VLAN segmentation, trunking, and port security |
-| [ACL & NAT Overview](./acl-nat-overview.md) | Access lists for traffic filtering and NAT for IP translation |
-| [DHCPv4 & WLAN Concepts](./dhcp-wlan.md) | Dynamic IP allocation and wireless networking fundamentals |
+| [IPv4 Addressing & Subnetting] | Binary, subnet masks, address types, and VLSM fundamentals |
+| [Routing Concepts] | Static routing, default routes, administrative distance, and metrics |
+| [OSPF Theory] | Link-state routing, SPF algorithm, OSPF configuration and behavior |
+| [Switching, VLANs, Port Security]| MAC-based switching, VLAN segmentation, trunking, and port security |
+| [ACL & NAT Overview] | Access lists for traffic filtering and NAT for IP translation |
+| [DHCPv4 & WLAN Concepts] Dynamic IP allocation and wireless networking fundamentals |
 
 ---
 

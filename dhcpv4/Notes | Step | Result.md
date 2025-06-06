@@ -78,3 +78,8 @@ ip helper-address 192.168.2.100
 - DHCP relay is required when the server is not on the same subnet as clients  
 - DNS server IP can be internal or public (e.g., 8.8.8.8)
 
+
+## Outcome 
+![Image](https://github.com/user-attachments/assets/c347ff60-a1b8-44f0-b8b5-989823cdf7d2)
+--
+![Image](https://github.com/user-attachments/assets/4347e808-56c8-412a-ad3e-8bda02ae8133)

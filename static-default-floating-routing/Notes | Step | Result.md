@@ -85,3 +85,5 @@ Check route codes:
 - Keep floating routes inactive by using a **higher AD**  
 - Combine with `show ip protocols` to compare static vs dynamic
 
+## Outcome 
+![Image](https://github.com/user-attachments/assets/4a795a89-ec66-4ae6-9226-86e728b949b5)
